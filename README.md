@@ -1,0 +1,1 @@
+This project is a 3D printed custom controller that uses a joystick and 3 buttons for inputs. The joystick and buttons are placed in a 3D printed controller frame and wired up to a Raspberry Pi 3 using its GPIO pins.
